@@ -12,5 +12,8 @@ The Use of this website is to give users a simple planner that keeps track of ti
 Save button that saves userinput, 
 Working hour Rows that changes color depending what time it is.
 
+[Website](https://howardlee2022.github.io/Time-Planner-Challenge/)
+
+
 ![Main](./Assets/screenshots/Home.jpg)
 ![LocalStorage](./Assets/screenshots/LocalStorage.jpg)
